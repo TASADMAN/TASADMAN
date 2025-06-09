@@ -1,40 +1,57 @@
-<h1 align="center">Hi 👋, I’m <strong>@TASADMAN</strong></h1>
-<p align="center">🔥 Developer who writes code with purpose & precision</p>
+<h1 align="center">🚀 Thaksin Noibuddee (TASADMAN)</h1>
+<p align="center"><strong>Backend-Focused Full Stack Developer | Java, PHP, JavaScript | Build with Purpose, Scale with Precision</strong></p>
 
 ---
 
-🧠 **About Me**
+## 🧑‍💻 About Me
 
-- 💻 Backend-leaning full-stack developer
-- ⚙️ Tech stack: `Java`, `PHP`, `JavaScript`, exploring `Node.js` and `Docker`
-- 🧭 Currently sharpening skills in **CI/CD**, **microservices**, and **clean architecture**
-- 💡 Love building **systems** that solve **real-world** problems
-- 🧱 Repositories reflect my exploration:  
-  `Project_RuayRuayRuay`, `Mini-Supply-Chain-Project`, `SAMAN_STORE`, `To-Do-List-Challenge`
+Hi, I'm **Thaksin Noibuddee** — a passionate software developer with a strong focus on **backend architecture**, clean code, and solving real-world problems through efficient system design.
 
----
-
-🛠️ **Tech & Tools**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![VSCode](https://img.shields.io/badge/Editor-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 👨‍💼 Open to full-time/internship roles in **Backend / Full-Stack Development**
+- 🛠 Tech stack: `Java`, `PHP`, `JavaScript`, `MySQL`, `Docker`, `Git`
+- 📦 Experienced with building internal tools, REST APIs, and small ERP systems
+- 📍 Based in Thailand | Available for remote or hybrid work
 
 ---
 
-📈 **Stats that matter**
+## 💼 Featured Projects
+
+| Project                         | Tech Stack           | Summary                                                                 |
+|-------------------------------|----------------------|-------------------------------------------------------------------------|
+| **Project_RuayRuayRuay**      | Java                 | Backend system for financial transactions and simulations               |
+| **Mini-Supply-Chain-Project** | Java                 | Simulated supply chain with tracking logic and role-based flow         |
+| **SAMAN_STORE**               | PHP, MySQL           | Inventory and sales management platform with authentication             |
+| **To-Do-List-Challenge**      | JavaScript, HTML/CSS | Basic productivity web app with clean and responsive UI                 |
+
+---
+
+## 🧠 Currently Learning
+
+- Advanced backend patterns (DDD, Hexagonal Architecture)
+- Containerization with Docker & basic CI/CD pipelines
+- Testing: Unit tests with JUnit, Postman tests
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TASADMAN&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TASADMAN&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TASADMAN&show_icons=true&theme=react" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=TASADMAN&theme=react" />
 </p>
 
 ---
 
-📫 **Reach Me**
+## 📫 Contact
 
-- 📧 tasadman.dev@gmail.com
-- 🧍‍♂️ Pronouns: he/him
-- ⚡ Fun fact: “Every clean commit deserves a coffee break.” ☕
+- 📧 Email: **tasadman.dev@gmail.com**
+- 🌐 Portfolio/GitHub: [github.com/TASADMAN](https://github.com/TASADMAN)
+- 💼 Resume/CV: *Available upon request* (or provide link if hosted)
+
+---
+
+## ⚡ A Little More
+
+> “I don’t just write code — I build systems that work, scale, and matter.”  
+> Clean code. Strong logic. Quiet confidence.
+
