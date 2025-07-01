@@ -44,12 +44,7 @@
       <img src="https://img.shields.io/badge/SCSS-CB6699?style=flat&logo=sass&logoColor=white" alt="SCSS"/>
     </td>
   </tr>
-  <tr>
-    <td align="center"><strong>State Management</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
-    </td>
-  </tr>
+ 
 </table>
 
 ---
