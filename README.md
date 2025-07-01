@@ -44,7 +44,13 @@
       <img src="https://img.shields.io/badge/SCSS-CB6699?style=flat&logo=sass&logoColor=white" alt="SCSS"/>
     </td>
   </tr>
- 
+    <tr>
+    <td align="center"><strong>State Management</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Zustand-000000?style=flat" alt="Zustand"/>
+       <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white" alt="Redux"/>
+    </td>
+  </tr>
 </table>
 
 ---
@@ -55,9 +61,13 @@
 
 | Project Name                 | Tech Stack                                  | Description                                     |
 |------------------------------|---------------------------------------------|-------------------------------------------------|
+| `autotok-unicon`             | **Next.js, TypeScript, Tailwind CSS** | แดชบอร์ดสำหรับจัดการงานอัตโนมัติเกี่ยวกับ TikTok |
 | `project-thunder-frontend`   | **Next.js, TypeScript, Ant Design** | พัฒนา UI สำหรับระบบจัดการข้อความอัตโนมัติ        |
 | `cf-easy-frontend`           | **React, TypeScript, Tailwind CSS** | สร้างแพลตฟอร์มแอดมินสำหรับจัดการ Live Commerce     |
+| `srinagarind-frontend`       | **React, TypeScript, Ant Design** | ส่วนหน้าของเว็บแอปพลิเคชันสำหรับโครงการศรีนครินทร์ |
 | `form-to-pdf`                | **React, TypeScript** | เครื่องมือสร้างไฟล์ PDF จากฟอร์มข้อมูลแบบไดนามิก   |
+| [`To-Do-List-Challenge`](https://github.com/TASADMAN/To-Do-List-Challenge)         | **React, TypeScript, CSS** | โปรเจกต์ท้าทายความสามารถในการสร้างแอป To-Do List |
+
 
 ---
 
