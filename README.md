@@ -61,7 +61,6 @@
 
 | Project Name                 | Tech Stack                                  | Description                                     |
 |------------------------------|---------------------------------------------|-------------------------------------------------|
-| `autotok-unicon`             | **Next.js, TypeScript, Tailwind CSS** | แดชบอร์ดสำหรับจัดการงานอัตโนมัติเกี่ยวกับ TikTok |
 | `project-thunder-frontend`   | **Next.js, TypeScript, Ant Design** | พัฒนา UI สำหรับระบบจัดการข้อความอัตโนมัติ        |
 | `cf-easy-frontend`           | **React, TypeScript, Tailwind CSS** | สร้างแพลตฟอร์มแอดมินสำหรับจัดการ Live Commerce     |
 | `srinagarind-frontend`       | **React, TypeScript, Ant Design** | ส่วนหน้าของเว็บแอปพลิเคชันสำหรับโครงการศรีนครินทร์ |
