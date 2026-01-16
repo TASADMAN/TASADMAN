@@ -56,12 +56,14 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TASADMAN&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TASADMAN&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TASADMAN&show_icons=true&theme=transparent&hide_border=true&title_color=0170FE&icon_color=38B2AC&text_color=ffffff" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TASADMAN&layout=compact&theme=transparent&hide_border=true&title_color=0170FE&text_color=ffffff" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://visit-counter.vercel.app/counter.png?page=TASADMAN&color=61DAFB&style=flat&label=VISITORS" alt="Visitor Counter" />
+  <a href="mailto:devsadman24@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-0170FE?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
