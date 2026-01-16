@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm THAKSIN (DEVSADMAN)</h1>
+<h1 align="center">Hi 👋, I'm (DEVSADMAN)</h1>
 <p align="center">
   <strong>Front-End Developer | E-commerce Specialist | AI Enthusiast</strong>
 </p>
